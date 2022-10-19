@@ -24,7 +24,7 @@ I am a full stack software engineer. My previous background in e-Commerce and fi
 - 📍 Currently based in Los Angeles, CA and open to remote
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about Machine Learning, new technologies in UI & UX
-- 🔭 I’m currently working on a full stack apps
+- 🔭 I’m currently working on full stack apps
 - 💬 Ask me about one of the apps I'm working on, it's an Airbnb clone app on React Native
 
 
