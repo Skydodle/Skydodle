@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am a full stack software engineer. My previous background in e-Commerce and finance makes me a strong and communicative developer that thrives in diverse and collaborative enviroments. I'm committed to building well designed solutions that solve problems. I love taking on the challenge of learning new technologies and I'm always motivated by the impact of innovation.
 </p>
 
-- 📍 Currently based in Los Angeles, CA and open to remote
+- 📍 Currently based in Los Angeles, CA and open to remote/ hybrid / relocation
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about Machine Learning, new technologies in UI & UX
 - 🔭 I’m currently working on full stack apps
