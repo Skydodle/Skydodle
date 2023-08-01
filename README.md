@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-I am a full stack software engineer. My previous background in e-Commerce and finance makes me a strong and communicative developer that thrives in diverse and collaborative enviroments. I'm committed to building well designed solutions that solve problems. I love taking on the challenge of learning new technologies and I'm always motivated by the impact of innovation.
+I'm a full stack software engineer with previous background in e-Commerce & finance. My diverse experience makes me a strong & communicative developer that thrives in fast-paced and collaborative environments. I'm committed to building well designed solutions that solve problems. I love taking on the challenge of learning new technologies & I'm always motivated by the impact of innovation.
 </p>
 
 - 📍 Currently based in Los Angeles, CA and open to remote/ hybrid / relocation
