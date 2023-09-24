@@ -25,9 +25,9 @@ I'm a full stack software engineer with previous background in e-Commerce & fina
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about Machine Learning, new technologies in UI & UX
 
-<h3 align='center'>
-My Tech Stack:
-</h3>
+<h2 align='center'>
+My Tech Stack
+</h2>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
@@ -49,12 +49,24 @@ My Tech Stack:
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 
-<h3 align='center'>
+<h2 align="center">
+  My Leetcode Profile stats
+</h2>
+<p align="center">
+  <a href="https://leetcode.com/skydodle">
+    <img src="https://leetcard.jacoblin.cool/skydodle?ext=heatmap" alt="Leetcode Stats"/>
+  </a>
+</p>
+
+<h2 align='center'>
   How to reach me:
-</h3>
+</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/johnnyhcwu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p> 
+
+
