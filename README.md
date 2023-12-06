@@ -24,6 +24,7 @@ I'm a full stack software engineer with previous background in e-Commerce & fina
 - 📍 Currently based in Los Angeles, CA and open to remote/ hybrid / relocation
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about Machine Learning, new technologies in UI & UX
+- 📫 Check out my portfolio website: https://johnnywu.dev/
 
 <h2 align='center'>
 My Tech Stack
