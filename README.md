@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 I'm a full stack software engineer with previous background in e-Commerce & finance. My diverse experience makes me a strong & communicative developer that thrives in fast-paced and collaborative environments. I'm committed to building well designed solutions that solve problems. I love taking on the challenge of learning new technologies & I'm always motivated by the impact of innovation.
 </p>
 
-- 📍 Currently based in Los Angeles, CA and open to remote/ hybrid / relocation
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
 - 🤔 Curious about Machine Learning, new technologies in UI & UX
 - 📫 Check out my portfolio website: https://johnnywu.dev/
